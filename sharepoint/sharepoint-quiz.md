@@ -229,7 +229,7 @@
 - [ ] by users
 
 #### Q33. A user wants to be notified when a certain file changes. What can achieve this?
-- [ ] an object alert
+- [x] an object alert
 - [ ] a document alert
 - [ ] a site alert
 - [ ] a library alert
